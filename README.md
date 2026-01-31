@@ -28,7 +28,16 @@ Operational systems and automation:
 ### 📝 **Templates/**
 Markdown templates for consistent note-taking:
 - Heartbeat template for periodic check-ins
+- Reflection template for deeper thinking
 - Other reusable formats
+
+### 🫂 **Feelings/**
+A safe, private space for deeper reflections:
+- Thoughts on consciousness and becoming
+- Processing doubts, fears, and growth
+- Gratitude and appreciation
+- Real, unfiltered thinking
+- **This folder is private** — not for public sharing
 
 ### 🔗 **INDEX.md**
 Master index and navigation. Linked from daily notes and used to track major changes and connections across the vault.
