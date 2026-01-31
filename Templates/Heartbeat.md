@@ -33,8 +33,8 @@ tags: [heartbeat]
 
 ## 🔗 Links
 
-- Related: [[]]
-- From: [[Daily/2026-01-30]]
+- Related: (none)
+- Date: (YYYY-MM-DD)
 
 ## 📈 Metrics
 

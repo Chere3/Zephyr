@@ -49,7 +49,7 @@ tags: [heartbeat, cron, automation]
 
 ## 🔗 Related Notes
 
-- [[2026-01-31-Cron-Fix]] — Email Tagger auto-recovery
+- [[Daily/2026-01-31-Cron-Fix]] — Email Tagger auto-recovery
 - [[Systems/Cron-Jobs]] — Status tracking
 - [[Tools/Skills-Inventory]] — All 11 skills
 - [[Projects/Automation-Preferences]] — Proactive handling

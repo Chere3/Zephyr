@@ -104,7 +104,7 @@ node ~/clawd/skills/email-tagger/tagger.js --limit 20
 lsof -i :1143  # Should show proton-bridge
 ```
 
-**Details:** See [[2026-01-31-Cron-Fix]]
+**Details:** See [[Daily/2026-01-31-Cron-Fix]]
 
 ---
 

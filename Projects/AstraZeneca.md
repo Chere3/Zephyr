@@ -21,15 +21,15 @@ started: 2026-01-30
 
 1. **Hyperautomation Engineer** 
    - ID: 90680906624
-   - CV: [[AstraZeneca/CVs/Hyperautomation]]
+   - CV Status: Generated
 
 2. **Associate Director, S/4 HANA Data Transformation**
    - ID: 90979781136
-   - CV: [[AstraZeneca/CVs/S4HANA-DQA]]
+   - CV Status: Generated
 
 3. **FullStack Platform Engineer**
    - ID: 91190379840
-   - CV: [[AstraZeneca/CVs/FullStack]]
+   - CV Status: Generated
 
 4. **AI Delivery Engineering Lead** (ID: 87294170096)
 5. **Data Support Engineer** (ID: 91155468496)
@@ -55,9 +55,9 @@ started: 2026-01-30
 ## 📄 CV Versions
 
 ### Generated CVs
-- [[AstraZeneca/CVs/Hyperautomation-Engineer]]
-- [[AstraZeneca/CVs/S4HANA-DataTransformation]]
-- [[AstraZeneca/CVs/FullStack-Platform]]
+- Hyperautomation Engineer (generated dynamically)
+- S4HANA Data Transformation (generated dynamically)
+- FullStack Platform Engineer (generated dynamically)
 
 ### CV Strategy
 - **Base template:** ~/clawd/cv_base.tex
@@ -100,7 +100,7 @@ started: 2026-01-30
 
 - [[Tools/CV-Updater]] — CV generation system
 - [[Daily/2026-01-31]] — Setup logs
-- [[Projects/Twitter]] — Personal branding
+- [[Projects/Twitter-Virality-Filter]] — Personal branding & social engagement
 
 ---
 
