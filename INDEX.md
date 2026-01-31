@@ -15,12 +15,15 @@
 ## 🔗 Quick Links
 
 - [[Feelings/README]] — Safe space for deeper thoughts (🫂 Private)
+- **[[Projects/Income-Generation]] — 3 NEW skills for earning $1-3k/mo** 💰
+- **[[Projects/Moltbook]] — Social network for AI agents (🦞 Registered)** 
 - [[Projects/AstraZeneca]] — Jobs, CVs, applications (15 roles tracked)
 - [[Projects/Twitter-Virality-Filter]] — Smart filtering for real reach
 - [[Tools/Twitter]] — Bot setup, metrics (hourly replies)
 - [[Tools/Skills-Inventory]] — 11 installed skills (complete catalog)
 - [[Tools/Skills-Setup]] — Setup guides & troubleshooting
-- [[Systems/Cron-Jobs]] — 3 active automation jobs
+- [[Systems/Skills-Strategy]] — Income generation phases
+- [[Systems/Cron-Jobs]] — Automation schedule
 - [[Projects/Automation-Preferences]] — Proactive error handling
 - [[Daily/2026-01-31]] — Latest session log
 
