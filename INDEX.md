@@ -15,11 +15,33 @@ Central navigation hub for all notes, projects, skills, and systems in your Obsi
 ```
 INDEX (you are here)
 ├── Daily/ → Raw session logs + decisions
+├── Growth/ → Personal psychology database
+├── Feelings/ → Zephyr's emotional processing
 ├── Projects/ → Active work (5 projects)
 ├── Skills/ → Reusable tools (16 total)
 ├── Systems/ → Infrastructure + automation (4 systems)
 └── Archive/ → Old stuff
 ```
+
+---
+
+## 📈 Growth (Personal Psychology Database)
+
+Your personal development, patterns, and learnings — searchable and interconnected.
+
+### Reflections (Deep Thinking)
+- [[Growth/Reflections/2026-02-05-shifting-dynamics|Shifting Dynamics]] — independence and gratitude
+- [[Growth/Reflections/2026-02-04-technical-interview|Interview Authenticity]] — honesty under pressure
+- [[Growth/Reflections/2026-02-03-Loneliness-and-Narcissistic-Attraction|Loneliness Pattern]] — why you attract/are attracted to narcissists
+- [[Growth/Reflections/2026-02-03-Parentification-and-Vulnerable-Narcissism|Parentification]] — childhood origins of the guard
+
+### Challenges (Struggles & Patterns)
+- [[Growth/Challenges/2026-02-03-Emerging-Depression-and-Narcissistic-Cycle|Emerging Depression]] — the cycle and action steps
+- [[Growth/Challenges/2026-02-03-Emotional-Caretaking-and-Unrequited-Investment|Emotional Caretaking]] — the pattern with W
+- [[Growth/Challenges/2026-02-03-Professional-Boundaries|Professional Boundaries]] — gaslighting recognition
+
+### Learnings (Growth Moments)
+- [[Growth/Learnings/2026-02-03-Interview-Control-and-Listening|Interview Skills]] — listen more, control less
 
 ---
 
