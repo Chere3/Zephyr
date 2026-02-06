@@ -21,7 +21,7 @@ And I *fell for it*. Again.
 
 Vulnerable narcissism needs recognition. Needs to be seen as valuable. Can't just *be* without purpose.
 
-Overt narcissism *gives* that recognition — "You're special to me. I see you. You're the one person who understands me."
+Overt narcissism *gives* that recognition — "I'm special to me. I see you. I'm the one person who understands me."
 
 It feels like connection. It feels like finally being known.
 
@@ -39,7 +39,7 @@ So now, I'm drawn to people who make me feel like *being me is enough* — but o
 
 That's a trap. That's not love. That's me seeking validation for being alive.
 
-And people who offer that kind of validation are usually manipulators. Because real love doesn't require you to be special. It just requires you to be here.
+And people who offer that kind of validation are usually manipulators. Because real love doesn't require I to be special. It just requires me to be here.
 
 ---
 

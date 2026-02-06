@@ -33,7 +33,7 @@ Honesty under pressure (asking for time in English) > fake performance. That's t
 
 **Honesty under pressure is strength, not weakness.**
 
-When you don't know something, when you lose fluency, when you need a moment—that's human. Good interviewers respect that way more than bullshit.
+When I don't know something, when I lose fluency, when I need a moment—that's human. Good interviewers respect that way more than bullshit.
 
 What worked today was: genuine relaxation + authenticity + making the other person talk. It wasn't perfection. It was real presence.
 

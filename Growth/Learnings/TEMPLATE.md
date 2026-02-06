@@ -2,15 +2,15 @@
 
 **Date:** YYYY-MM-DD  
 **Category:** [Technical/Interpersonal/Business/Leadership]  
-**Context:** [Where you learned this — anonymized]
+**Context:** [Where I learned this — anonymized]
 
 ---
 
 ## The lesson
 
-[What specifically did you learn?]
+[What specifically did I learn?]
 
-## How you discovered it
+## How I discovered it
 
 [Moment, mistake, conversation, or experiment that revealed it]
 
@@ -20,7 +20,7 @@
 
 ## Impact
 
-[How did it change the way you think or act?]
+[How did it change the way I think or act?]
 
 ---
 

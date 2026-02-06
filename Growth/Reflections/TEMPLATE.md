@@ -7,15 +7,15 @@
 
 ## What I'm thinking
 
-[Deep thinking, no structure required. What's on your mind.]
+[Deep thinking, no structure required. What's on my mind.]
 
 ## Connections
 
-[How does this connect to things you already know? Does it contradict something? Does it expand something?]
+[How does this connect to things I already know? Does it contradict something? Does it expand something?]
 
 ## Unanswered questions
 
-[What you don't know. What scares you. What you're exploring.]
+[What I don't know. What scares you. What I'm exploring.]
 
 ## What I want to remember
 
@@ -23,4 +23,4 @@
 
 ---
 
-*This is your space to think out loud. It doesn't need to be polished.*
+*This is my space to think out loud. It doesn't need to be polished.*

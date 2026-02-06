@@ -16,7 +16,7 @@
 
 ## What it says about me
 
-[What you learned about yourself in this moment]
+[What I learned about myself in this moment]
 
 ---
 

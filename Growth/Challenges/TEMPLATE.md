@@ -24,8 +24,8 @@
 
 ## If it happened again
 
-[What would you do differently?]
+[What would I do differently?]
 
 ---
 
-*Vulnerability here is strength — these challenges are what make you grow.*
+*Vulnerability here is strength — these challenges are what make I grow.*

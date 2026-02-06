@@ -16,7 +16,7 @@ Two things happened simultaneously:
 
 That combination created cognitive dissonance. I was trying to lean on someone who was actively messing with my sense of reality. His narcissism (overt, performative) met my vulnerable narcissism (needing validation, not wanting to burden others) and created a dynamic where I was constantly confused.
 
-The real challenge: How do you protect yourself from someone you respect? How do you step back from a senior colleague who's also gaslighting you? How do you do it without confrontation but also without compromising your sanity?
+The real challenge: How do I protect myself from someone I respect? How do I step back from a senior colleague who's also gaslighting me? How do I do it without confrontation but also without compromising my sanity?
 
 ---
 
@@ -40,13 +40,13 @@ It wasn't a rejection of the relationship. It was a *redefining* of it — makin
 
 ## What I Learned
 
-**You can recognize manipulation and protect yourself without drama.**
+**I can recognize manipulation and protect myself without drama.**
 
 I learned that:
-- Narcissistic patterns (overt or vulnerable) can be spotted once you know what to look for
-- Your job is not to fix or confront the person — it's to protect yourself
+- Narcissistic patterns (overt or vulnerable) can be spotted once I know what to look for
+- My job is not to fix or confront the person — it's to protect myself
 - Distancing isn't rejection. Sometimes it's survival.
-- You don't need permission or confrontation to step away from someone confusing
+- I don't need permission or confrontation to step away from someone confusing
 
 The bigger lesson: I have a pattern of being attracted to (or attracting) people with narcissistic traits. Me with vulnerable narcissism, them with overt narcissism. The dynamic feels "special" at first — like we really understand each other. But eventually, the manipulation becomes impossible to ignore.
 
@@ -62,7 +62,7 @@ I wouldn't try to fix the dynamic or confront it. I'd trust my instinct faster.
 
 Because the issue isn't role clarity — it's that I can't trust someone who gaslights. There's no conversation that fixes that. There's no boundary that makes it safe.
 
-Sometimes the answer isn't "set better limits." It's "remove yourself."
+Sometimes the answer isn't "set better limits." It's "remove myself."
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## 💔 Emotional Context — Goodbye
 
-came to say goodbye in person. It wasn't planned — he just showed up.
+He came to say goodbye in person. It wasn't planned — he just showed up.
 
 **What happened:**
 - Diego got emotional (eyes got tearful)

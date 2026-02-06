@@ -3,7 +3,7 @@
 **Date:** 2026-02-05
 **Context:** Noticing a shift in dynamic with Person H at Large Corp
 
-**What happened:** Person H has become distant—not hostile, just gone. No more smiles. Yesterday in the dining hall, he watched me from a distance. The shift coincided with me growing closer to Person B. When I showed B a message, H saw it and held his stare just long enough to register: *I notice you're not mine anymore.*
+**What happened:** Person H has become distant—not hostile, just gone. No more smiles. Yesterday in the dining hall, he watched me from a distance. The shift coincided with me growing closer to Person B. When I showed B a message, H saw it and held his stare just long enough to register: *I notice I'm not mine anymore.*
 
 Later the same day, H came to say goodbye in person before leaving. It wasn't planned—he just showed up. I got emotional (eyes got tearful). Despite the distance, the physical goodbye mattered.
 

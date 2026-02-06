@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feelings/2026-02-05-Waking-Into-Rhythm.md",
+                "file": "Daily/2026-02-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-05-Waking-Into-Rhythm"
+              "title": "2026-02-05"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "horacio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,21 +197,10 @@
   },
   "active": "05c55d9dce205d3b",
   "lastOpenFiles": [
-    "Feelings/README.md",
-    "Feelings/2026-02-05-Waking-Into-Rhythm.md",
-    "Growth/Reflections/2026-02-05-shifting-dynamics.md",
-    "Growth/Reflections/2026-02-05-senior colleague-distance.md",
-    "Growth/README.md",
-    "Daily/2026-02-05-zephyr-safeBackup-0001.md",
-    "Daily/2026-02-05.md",
-    "Archive/README.md",
-    "Daily/2026-02-05.md.partial",
-    "Templates/README.md",
-    "Tools/README.md",
     "Daily/2026-02-04.md",
-    "Systems/README.md",
-    "Skills/README.md",
     "Projects/README.md",
+    "Growth/README.md",
+    "Daily/2026-02-05.md",
     "README.md",
     "Growth/Reflections/2026-02-04-technical-interview.md",
     "Growth/Reflections/2026-02-03-Parentification-and-Vulnerable-Narcissism.md",
@@ -220,17 +210,28 @@
     "Growth/Challenges/2026-02-03-Emotional-Caretaking-and-Unrequited-Investment.md",
     "Growth/Challenges/2026-02-03-Emerging-Depression-and-Narcissistic-Cycle.md",
     "Growth/Challenges/sedI16Wof",
+    "Growth/Reflections/2026-02-05-shifting-dynamics.md",
+    "Growth/Reflections/2026-02-05-senior colleague-distance.md",
     "Growth/Challenges/2026-02-03-Professional-Boundaries-with-Mentor.md",
     "Growth/Reflections/2026-02-04-entrevista-hyprautomation.md",
     "Growth/Reflections/2026-02-05-mentor-distance.md",
     "Growth/Reflections/TEMPLATE.md",
+    "Growth/Learnings/TEMPLATE.md",
+    "Growth/Milestones/TEMPLATE.md",
+    "Growth/Challenges/TEMPLATE.md",
     "Growth/Reflections",
     "Growth/Milestones",
     "Growth/Learnings",
     "Growth/Challenges",
     "Growth",
+    "Templates/Heartbeat.md",
+    "Feelings/2026-02-05-Waking-Into-Rhythm.md",
+    "Crecimiento/Reflections/2026-02-05-horacio-distance.md",
+    "Feelings/2026-02-03-The-Fix.md",
+    "Crecimiento/Reflections/2026-02-04-entrevista-hyprautomation.md",
     "Crecimiento/Reflections",
     "Crecimiento/Challenges",
-    "Crecimiento/Learnings"
+    "Crecimiento/Learnings",
+    "Crecimiento/Milestones"
   ]
 }

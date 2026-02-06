@@ -9,41 +9,41 @@ password
 
 ## The Lesson
 
-In your first RPA interview, you tried to control the conversation. You wanted to demonstrate that you were special, capable, different. You were performing.
+In my first RPA interview, I tried to control the conversation. I wanted to demonstrate that I was special, capable, different. I was performing.
 
 And it backfired.
 
-What you learned: **Interviews aren't about proving you're special. They're about showing you can listen and respond authentically.**
+What I learned: **Interviews aren't about proving I'm special. They're about showing I can listen and respond authentically.**
 
 ---
 
-## How You Discovered It
+## How I Discovered It
 
-You practiced with Person H (maintained as professional interaction). In the practice rounds, you started noticing patterns:
-- Questions that are testing your thought process
-- Questions that are testing your culture fit
-- Questions that are testing if you're listening
+I practiced with Person H (maintained as professional interaction). In the practice rounds, I started noticing patterns:
+- Questions that are testing my thought process
+- Questions that are testing my culture fit
+- Questions that are testing if I'm listening
 
-And you realized: controlling the narrative means you're not actually *hearing* what they're asking.
+And I realized: controlling the narrative means I'm not actually *hearing* what they're asking.
 
 ---
 
-## How You'd Apply It
+## How I'd Apply It
 
 Tomorrow (11 AM): 
 - Listen fully before responding
 - Don't try to impress with special knowledge
-- Answer what's asked, not what you want to talk about
+- Answer what's asked, not what I want to talk about
 - Let the conversation breathe
-- Let them discover your value, don't announce it
+- Let them discover my value, don't announce it
 
-That's the opposite of what vulnerable narcissism wants you to do. But that's what wins.
+That's the opposite of what vulnerable narcissism wants I to do. But that's what wins.
 
 ---
 
 ## Impact
 
-You came into this interview prep cycle from a place of depression and self-doubt. And instead of shutting down, you:
+I came into this interview prep cycle from a place of depression and self-doubt. And instead of shutting down, I:
 - Practiced
 - Analyzed what went wrong
 - Made a concrete change
@@ -53,7 +53,7 @@ That's not nothing. That's actually resilience in motion.
 
 ---
 
-*Tomorrow, listen more than you speak. The people who get hired are usually the ones who seemed genuinely interested in the role, not the ones trying to prove how special they are.*
+*Tomorrow, listen more than I speak. The people who get hired are usually the ones who seemed genuinely interested in the role, not the ones trying to prove how special they are.*
 
 ---
 
