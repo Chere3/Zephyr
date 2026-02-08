@@ -1,0 +1,202 @@
+{
+  "provider": "openclaw",
+  "kind": "usage",
+  "date": "2026-02-07",
+  "tokens": {
+    "input": 3132912,
+    "output": 42137,
+    "cacheRead": 18378357,
+    "cacheWrite": 35281,
+    "totalTokens": 21588687
+  },
+  "cost": {
+    "input": 4.18928575,
+    "output": 0.4985059999999999,
+    "cacheRead": 5.694505300000001,
+    "cacheWrite": 0.04410125000000001,
+    "total": 10.426398300000006
+  },
+  "byModel": {
+    "claude-haiku-4-5": {
+      "tokens": {
+        "input": 102,
+        "output": 2199,
+        "cacheRead": 185907,
+        "cacheWrite": 35281,
+        "totalTokens": 223489
+      },
+      "cost": {
+        "input": 0.000102,
+        "output": 0.010995000000000001,
+        "cacheRead": 0.018590699999999998,
+        "cacheWrite": 0.04410125000000001,
+        "total": 0.07378894999999999
+      },
+      "count": 11,
+      "provider": "anthropic"
+    },
+    "gpt-5.2": {
+      "tokens": {
+        "input": 2098223,
+        "output": 33427,
+        "cacheRead": 10524032,
+        "cacheWrite": 0,
+        "totalTokens": 12655682
+      },
+      "cost": {
+        "input": 3.671890249999999,
+        "output": 0.4679779999999999,
+        "cacheRead": 1.8417056000000003,
+        "cacheWrite": 0,
+        "total": 5.981573849999995
+      },
+      "count": 120,
+      "provider": "openai-codex"
+    },
+    "gemini-3-flash": {
+      "tokens": {
+        "input": 1034587,
+        "output": 6511,
+        "cacheRead": 7668418,
+        "cacheWrite": 0,
+        "totalTokens": 8709516
+      },
+      "cost": {
+        "input": 0.5172935000000001,
+        "output": 0.019533000000000002,
+        "cacheRead": 3.834209,
+        "cacheWrite": 0,
+        "total": 4.3710355000000005
+      },
+      "count": 37,
+      "provider": "google-antigravity"
+    }
+  },
+  "byProvider": {
+    "anthropic": {
+      "tokens": {
+        "input": 102,
+        "output": 2199,
+        "cacheRead": 185907,
+        "cacheWrite": 35281,
+        "totalTokens": 223489
+      },
+      "cost": {
+        "input": 0.000102,
+        "output": 0.010995000000000001,
+        "cacheRead": 0.018590699999999998,
+        "cacheWrite": 0.04410125000000001,
+        "total": 0.07378894999999999
+      },
+      "count": 11
+    },
+    "openai-codex": {
+      "tokens": {
+        "input": 2098223,
+        "output": 33427,
+        "cacheRead": 10524032,
+        "cacheWrite": 0,
+        "totalTokens": 12655682
+      },
+      "cost": {
+        "input": 3.671890249999999,
+        "output": 0.4679779999999999,
+        "cacheRead": 1.8417056000000003,
+        "cacheWrite": 0,
+        "total": 5.981573849999995
+      },
+      "count": 120
+    },
+    "google-antigravity": {
+      "tokens": {
+        "input": 1034587,
+        "output": 6511,
+        "cacheRead": 7668418,
+        "cacheWrite": 0,
+        "totalTokens": 8709516
+      },
+      "cost": {
+        "input": 0.5172935000000001,
+        "output": 0.019533000000000002,
+        "cacheRead": 3.834209,
+        "cacheWrite": 0,
+        "total": 4.3710355000000005
+      },
+      "count": 37
+    }
+  },
+  "bySessionKind": {
+    "chat": {
+      "tokens": {
+        "input": 3132909,
+        "output": 42130,
+        "cacheRead": 18378357,
+        "cacheWrite": 25325,
+        "totalTokens": 21578721
+      },
+      "cost": {
+        "input": 4.189282749999999,
+        "output": 0.4984709999999999,
+        "cacheRead": 5.694505300000001,
+        "cacheWrite": 0.031656250000000004,
+        "total": 10.413915300000006
+      },
+      "count": 167
+    },
+    "subagent": {
+      "tokens": {
+        "input": 3,
+        "output": 7,
+        "cacheRead": 0,
+        "cacheWrite": 9956,
+        "totalTokens": 9966
+      },
+      "cost": {
+        "input": 0.000003,
+        "output": 0.000035000000000000004,
+        "cacheRead": 0,
+        "cacheWrite": 0.012445000000000001,
+        "total": 0.012483000000000001
+      },
+      "count": 1
+    }
+  },
+  "byTask": {
+    "chat:main": {
+      "tokens": {
+        "input": 3132909,
+        "output": 42130,
+        "cacheRead": 18378357,
+        "cacheWrite": 25325,
+        "totalTokens": 21578721
+      },
+      "cost": {
+        "input": 4.189282749999999,
+        "output": 0.4984709999999999,
+        "cacheRead": 5.694505300000001,
+        "cacheWrite": 0.031656250000000004,
+        "total": 10.413915300000006
+      },
+      "count": 167
+    },
+    "subagent:Generate a very short response (one line) to con": {
+      "tokens": {
+        "input": 3,
+        "output": 7,
+        "cacheRead": 0,
+        "cacheWrite": 9956,
+        "totalTokens": 9966
+      },
+      "cost": {
+        "input": 0.000003,
+        "output": 0.000035000000000000004,
+        "cacheRead": 0,
+        "cacheWrite": 0.012445000000000001,
+        "total": 0.012483000000000001
+      },
+      "count": 1
+    }
+  },
+  "messagesCount": 168,
+  "filesScanned": 779
+}

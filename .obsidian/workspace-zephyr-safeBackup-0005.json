@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e56516dfffbe3f24",
+        "id": "8a9fe8eb999df17b",
         "type": "tabs",
         "children": [
           {
-            "id": "3b82257622c937ae",
+            "id": "05c55d9dce205d3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Growth/Reflections/2026-02-03-Parentification-and-Vulnerable-Narcissism.md",
+                "file": "Daily/2026-02-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-03-Parentification-and-Vulnerable-Narcissism"
+              "title": "2026-02-05"
             }
           }
         ]
@@ -194,43 +194,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b82257622c937ae",
+  "active": "05c55d9dce205d3b",
   "lastOpenFiles": [
+    "Daily/2026-02-05-zephyr-safeBackup-0001.md",
+    "Daily/2026-02-05.md",
+    "Growth/Reflections/2026-02-03-Loneliness-and-Narcissistic-Attraction.md",
+    "Growth/Reflections/2026-02-05-shifting-dynamics.md",
+    "Feelings/2026-02-05-Waking-Into-Rhythm.md",
+    "Feelings/README.md",
+    "Growth/Reflections/2026-02-05-senior colleague-distance.md",
+    "Growth/README.md",
+    "Archive/README.md",
+    "Daily/2026-02-05.md.partial",
+    "Templates/README.md",
+    "Tools/README.md",
+    "Daily/2026-02-04.md",
+    "Systems/README.md",
+    "Skills/README.md",
+    "Projects/README.md",
+    "README.md",
+    "Growth/Reflections/2026-02-04-technical-interview.md",
+    "Growth/Reflections/2026-02-03-Parentification-and-Vulnerable-Narcissism.md",
+    "Growth/Learnings/2026-02-03-Interview-Control-and-Listening.md",
     "Growth/Challenges/2026-02-03-Professional-Boundaries.md",
     "Growth/Challenges/2026-02-03-Emotional-Caretaking-and-Unrequited-Investment.md",
     "Growth/Challenges/2026-02-03-Emerging-Depression-and-Narcissistic-Cycle.md",
-    "Feelings/2026-02-08-afternoon.md",
-    "Feelings/2026-02-08.md",
-    "Daily/2026-02-05-zephyr-safeBackup-0001.md",
-    "Daily/2026-02-06.md",
-    "Daily/2026-02-07.md",
-    "Daily/2026-02-08.md",
-    "Daily/2026-02-02.md",
-    "Daily/2026-01-31.md",
-    "Reports/X/Weekly-Tech/2026-02-08.md",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/data/2026-02-07.openclaw.usage.json",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/data/2026-02-07.openai.costs.json",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/data/2026-02-06.openclaw.usage.json",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/data/2026-02-06.openclaw.pricing-estimate.json",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/data/2026-02-06.openai.usage.completions.json",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/data/2026-02-06.openai.costs.json",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/data",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/2026-02-07.openclaw.md",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/2026-02-07.md",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/2026-02-06.openclaw.pricing-estimate.md",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/2026-02-06.openclaw.md",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/2026-02-06.openai.usage.md",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage/2026-02-06.md",
-    "Reports/_archive/usage-dashboard-2026-02-08/Usage",
-    "Reports/_archive/usage-dashboard-2026-02-08",
-    "Reports/_archive",
-    "Reports/Usage/2026-02-07.openclaw.md",
-    "Feelings/_archive/2026-02-08/2026-02-08-mid-morning.md",
-    "Feelings/_archive/2026-02-08/2026-02-08-morning.md",
-    "Feelings/_archive/2026-02-08/2026-02-08-morning-2.md",
-    "Feelings/_archive/2026-02-08/2026-02-08-morning-3.md",
-    "Feelings/_archive/2026-02-08/2026-02-08-late-morning.md",
-    "Feelings/2026-02-07.md",
-    "Feelings/2026-02-08-late-morning.md"
+    "Growth/Challenges/sedI16Wof",
+    "Growth/Challenges/2026-02-03-Professional-Boundaries-with-Mentor.md",
+    "Growth/Reflections/2026-02-04-entrevista-hyprautomation.md",
+    "Growth/Reflections/2026-02-05-mentor-distance.md",
+    "Growth/Reflections/TEMPLATE.md",
+    "Growth/Reflections",
+    "Growth/Milestones",
+    "Growth/Learnings",
+    "Growth/Challenges",
+    "Growth",
+    "Crecimiento/Reflections",
+    "Crecimiento/Challenges",
+    "Crecimiento/Learnings"
   ]
 }

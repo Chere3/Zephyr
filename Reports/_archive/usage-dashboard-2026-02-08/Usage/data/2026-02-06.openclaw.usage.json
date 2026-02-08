@@ -1,0 +1,147 @@
+{
+  "provider": "openclaw",
+  "kind": "usage",
+  "date": "2026-02-06",
+  "tokens": {
+    "input": 1457109,
+    "output": 50479,
+    "cacheRead": 14698880,
+    "cacheWrite": 0,
+    "totalTokens": 16206468
+  },
+  "cost": {
+    "input": 2.549940749999999,
+    "output": 0.7067060000000005,
+    "cacheRead": 2.572303999999999,
+    "cacheWrite": 0,
+    "total": 5.8289507500000015
+  },
+  "byModel": {
+    "gpt-5.2-codex": {
+      "tokens": {
+        "input": 990526,
+        "output": 22472,
+        "cacheRead": 6146816,
+        "cacheWrite": 0,
+        "totalTokens": 7159814
+      },
+      "cost": {
+        "input": 1.7334204999999998,
+        "output": 0.31460800000000005,
+        "cacheRead": 1.0756928000000001,
+        "cacheWrite": 0,
+        "total": 3.1237213000000024
+      },
+      "count": 418,
+      "provider": "openai"
+    },
+    "delivery-mirror": {
+      "tokens": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0
+      },
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      },
+      "count": 3,
+      "provider": "clawdbot"
+    },
+    "gpt-5.2": {
+      "tokens": {
+        "input": 466583,
+        "output": 28007,
+        "cacheRead": 8552064,
+        "cacheWrite": 0,
+        "totalTokens": 9046654
+      },
+      "cost": {
+        "input": 0.8165202499999995,
+        "output": 0.3920979999999999,
+        "cacheRead": 1.4966111999999996,
+        "cacheWrite": 0,
+        "total": 2.7052294499999996
+      },
+      "count": 120,
+      "provider": "openai-codex"
+    }
+  },
+  "byProvider": {
+    "openai": {
+      "tokens": {
+        "input": 990526,
+        "output": 22472,
+        "cacheRead": 6146816,
+        "cacheWrite": 0,
+        "totalTokens": 7159814
+      },
+      "cost": {
+        "input": 1.7334204999999998,
+        "output": 0.31460800000000005,
+        "cacheRead": 1.0756928000000001,
+        "cacheWrite": 0,
+        "total": 3.1237213000000024
+      },
+      "count": 418
+    },
+    "clawdbot": {
+      "tokens": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0
+      },
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      },
+      "count": 2
+    },
+    "openai-codex": {
+      "tokens": {
+        "input": 466583,
+        "output": 28007,
+        "cacheRead": 8552064,
+        "cacheWrite": 0,
+        "totalTokens": 9046654
+      },
+      "cost": {
+        "input": 0.8165202499999995,
+        "output": 0.3920979999999999,
+        "cacheRead": 1.4966111999999996,
+        "cacheWrite": 0,
+        "total": 2.7052294499999996
+      },
+      "count": 120
+    },
+    "openclaw": {
+      "tokens": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0
+      },
+      "cost": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "total": 0
+      },
+      "count": 1
+    }
+  },
+  "messagesCount": 541,
+  "filesScanned": 776
+}

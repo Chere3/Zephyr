@@ -1,0 +1,92 @@
+{
+  "provider": "openclaw",
+  "kind": "pricing-estimate",
+  "date": "2026-02-06",
+  "pricingSources": {
+    "openai": {
+      "url": "https://openai.com/api/pricing/",
+      "fetchedAt": "2026-02-07T01:25:04.465Z"
+    },
+    "anthropic": {
+      "url": "https://platform.claude.com/docs/en/about-claude/pricing",
+      "fetchedAt": "2026-02-07T02:17:43.189Z"
+    }
+  },
+  "totals": {
+    "estimated": 5.82895075
+  },
+  "totalsByProvider": {
+    "openai": 3.1237212999999997,
+    "clawdbot": 0,
+    "openai-codex": 2.70522945
+  },
+  "byModel": {
+    "gpt-5.2-codex": {
+      "provider": "openai",
+      "matchedPricingKey": "gpt-5.2",
+      "tokens": {
+        "input": 990526,
+        "output": 22472,
+        "cacheRead": 6146816,
+        "cacheWrite": 0,
+        "totalTokens": 7159814
+      },
+      "per1M": {
+        "input": 1.75,
+        "output": 14,
+        "cacheRead": 0.175,
+        "cacheWrite": null
+      },
+      "estimated": 3.1237212999999997,
+      "components": {
+        "input": 1.7334205,
+        "output": 0.314608,
+        "cacheRead": 1.0756928,
+        "cacheWrite": null
+      }
+    },
+    "delivery-mirror": {
+      "provider": "clawdbot",
+      "matchedPricingKey": null,
+      "tokens": {
+        "input": 0,
+        "output": 0,
+        "cacheRead": 0,
+        "cacheWrite": 0,
+        "totalTokens": 0
+      },
+      "per1M": null,
+      "estimated": 0,
+      "components": {
+        "input": null,
+        "output": null,
+        "cacheRead": null,
+        "cacheWrite": null
+      }
+    },
+    "gpt-5.2": {
+      "provider": "openai-codex",
+      "matchedPricingKey": "gpt-5.2",
+      "tokens": {
+        "input": 466583,
+        "output": 28007,
+        "cacheRead": 8552064,
+        "cacheWrite": 0,
+        "totalTokens": 9046654
+      },
+      "per1M": {
+        "input": 1.75,
+        "output": 14,
+        "cacheRead": 0.175,
+        "cacheWrite": null
+      },
+      "estimated": 2.70522945,
+      "components": {
+        "input": 0.81652025,
+        "output": 0.392098,
+        "cacheRead": 1.4966112,
+        "cacheWrite": null
+      }
+    }
+  }
+}
