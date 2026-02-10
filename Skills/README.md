@@ -31,6 +31,7 @@ Skills are organized by category:
 - [[proton-client]] — Secure email
 - [[organizer]] — File organization
 - [[moltbook-interact]] — AI social network
+- [[openai-tts-audio]] — Voice notes via TTS + chat delivery
 
 ---
 
