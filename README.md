@@ -85,6 +85,11 @@ This vault is vector-indexed for semantic search:
 - **[[Growth/README]]** — Growth folder guide
 - **[ROADMAP.md](./ROADMAP.md)** — Portfolio-quality improvement plan
 - **[CONTRIBUTING.md](./CONTRIBUTING.md)** — Contribution workflow and quality bar
+- **[MAINTENANCE.md](./MAINTENANCE.md)** — Operational checklist for ongoing hygiene
+
+## Quality gate
+- Local validation: `bash scripts/docs_health_check.sh`
+- CI validation: `.github/workflows/docs-health.yml` on PRs + pushes to `dev`
 
 ---
 

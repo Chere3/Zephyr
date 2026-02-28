@@ -3,10 +3,10 @@
 This roadmap keeps the Zephyr vault professional, contributor-ready, and resilient as a long-lived personal knowledge system.
 
 ## Quick wins (1-2 weeks)
-- Add `CONTRIBUTING.md` and normalize PR/commit expectations for documentation changes.
-- Add consistency checks for frontmatter/date naming in `Daily/`, `Feelings/`, and `Growth/`.
-- Add a maintenance checklist for broken wikilinks and orphan notes.
-- Standardize `README` links to key navigation docs (`INDEX.md`, `CONTRIBUTING.md`, this roadmap).
+- ✅ Add `CONTRIBUTING.md` and normalize PR/commit expectations for documentation changes.
+- ✅ Add consistency checks for date naming in `Daily/` and required top-level docs/folders (`scripts/docs_health_check.sh`).
+- ✅ Add a maintenance checklist for broken wikilinks and orphan notes (`MAINTENANCE.md`).
+- ✅ Standardize `README` links to key navigation docs (`INDEX.md`, `CONTRIBUTING.md`, roadmap + maintenance).
 
 ## Medium (2-6 weeks)
 - Introduce lightweight docs QA scripts (`lint:md`, link checks, structure checks).
