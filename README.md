@@ -83,6 +83,8 @@ This vault is vector-indexed for semantic search:
 - **[[INDEX]]** — Master index with links to everything
 - **[[Daily/2026-02-05]]** — Latest daily note
 - **[[Growth/README]]** — Growth folder guide
+- **[ROADMAP.md](./ROADMAP.md)** — Portfolio-quality improvement plan
+- **[CONTRIBUTING.md](./CONTRIBUTING.md)** — Contribution workflow and quality bar
 
 ---
 
