@@ -1,0 +1,14 @@
+name: Docs health
+
+on:
+  pull_request:
+  push:
+    branches: [dev]
+
+jobs:
+  docs-health:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run docs health check
+        run: bash scripts/docs_health_check.sh
